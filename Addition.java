@@ -22,8 +22,7 @@ public class Addition {
 		result=no1+no2;
 		System.out.println("Addition of int="+result);
 	   System.out.println("Addition of char="+ch1+ch2);
-
-
 	}
 
 }
+///test Reshma jagade 
